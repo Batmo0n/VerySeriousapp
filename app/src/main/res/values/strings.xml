@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VerySeriousapp</string>
+    <string name="search_contacts">Search contacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="edit_do">Сделать</string>
+    <string name="file">Файл</string>
+    <string name="url">URL картинки</string>
+    <string name="delete">Удалить</string>
+    <string name="end_call">Хватит</string>
+    <string name="login_error_text">Неправильный логин или пароль, или ошибка сети и тд.</string>
+    <string name="password">Пароль</string>
+    <string name="username">Логин</string>
+    <string name="login">Войти</string>
+    <string name="share">Поделиться</string>
+</resources>
